@@ -1,5 +1,5 @@
-# candlelit-uploader
+# channel-uploader
 
-Home page, privacy policy and terms for Candlelit Uploader, the private tool that publishes videos to the Candlelit Sleep Stories YouTube channel.
+Home page, privacy policy and terms for Channel Uploader, a private tool that publishes videos to its owner's YouTube channels.
 
-Served with GitHub Pages at https://wipdgroup.github.io/candlelit-uploader/
+Served with GitHub Pages at https://wipdgroup.github.io/channel-uploader/
